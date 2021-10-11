@@ -1,0 +1,21 @@
+[
+  {},
+  {
+    "title": "jugo",
+    "price": 100,
+    "thumbnail": "https://pbs.twimg.com/media/E2LEhhgWUAEQtlk?format=jpg&name=medium",
+    "id": 1
+  },
+  {
+    "title": "Gaseosa",
+    "price": 150,
+    "thumbnail": "https://pbs.twimg.com/media/E2LEhhgWUAEQtlk?format=jpg&name=medium",
+    "id": 2
+  },
+  {
+    "title": "Cerveza",
+    "price": 180,
+    "thumbnail": "https://pbs.twimg.com/media/E2LEhhgWUAEQtlk?format=jpg&name=medium",
+    "id": 3
+  }
+]
