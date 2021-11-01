@@ -1,0 +1,10 @@
+{{> nav }}
+
+<div>
+  <h1>Productos</h1>
+  <ul>
+    {{#each data}}
+      <li>{{this.product}}: ${{this.price}} </li>
+    {{/each}}
+  </ul>
+</div>

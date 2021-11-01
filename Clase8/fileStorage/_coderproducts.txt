@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Coca",
+    "price": 150,
+    "Thumbnail": "a",
+    "id": 1
+  },
+  {
+    "title": "Sprite",
+    "price": 140,
+    "Thumbnail": "b",
+    "id": 2
+  },
+  {
+    "title": "Coca zero",
+    "price": 150,
+    "Thumbnail": "zaaa",
+    "id": 3
+  },
+  {
+    "title": "Agua",
+    "price": 120,
+    "Thumbnail": "d",
+    "id": 4
+  },
+  {
+    "title": "Aquarius",
+    "price": 135,
+    "Thumbnail": "e",
+    "id": 5
+  },
+  {
+    "title": "Patagonia",
+    "price": "250",
+    "Thumbnail": "GG",
+    "id": 6
+  }
+]
